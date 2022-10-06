@@ -4,4 +4,5 @@ Set of recipes as given by my grandma.
 
  - piza (todo)
  - sorce (todo)
- - peds (todoo)
+ - spreds (todo)
+ 
